@@ -17,6 +17,9 @@
 
 **boychawin/boychawin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+    - (Dark) - Color: #1b2836
+    - (Green) - Color: #02d668
+    &&
     มิตรภาพ (Friendship) - Color: #FF6501
     สนุกสนาน (Fun) - Color: #FBCF01
     กว้างไกล (Broad and Far) - Color: #150488
