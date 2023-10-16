@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/70184049?v=4" width="100"/>
-</div>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/boy-chawin-878a5b216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
