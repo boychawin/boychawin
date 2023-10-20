@@ -4,7 +4,7 @@
 
 # Boy's Resume
 
-- **Name:** Boy
+- **Name:** Boy Chawin
 - **Location:** Sakon Nakhon, Thailand
 - **Email:** boychawin.com@gmail.com
 - **Phone:** 0985679714
