@@ -17,7 +17,7 @@
 ## Work Experience
 - **National Telecom Public Company Limited (Public Company Limited)**
   - **Position:** Software Engineer
-  - **Duration:** April 15, 2021 - Present
+  - **Duration:** April 15, 2021 - 2023
 
 ## Skills and Expertise
 - **Front-End:**
