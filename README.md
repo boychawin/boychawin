@@ -1,6 +1,53 @@
 ### Hi there 👋
 
 
+
+ประวัติส่วนตัว
+
+ชื่อ: บอย
+
+ที่อยู่: สกลนคร ประเทศไทย
+
+อีเมล: boychawin.com@gmail.com
+
+โทรศัพท์: 0985679714
+
+LinkedIn: linkedin.com/in/boy-chawin-878a5b216
+
+Github: https://github.com/boychawin
+
+ประวัติการศึกษา:
+
+    ปริญญาตรี ใน วิทยาการคอมพิวเตอร์ จาก มหาวิทยาลัยราชภัฏสกลนคร
+
+ประสบการณ์ทำงาน:
+
+    บริษัท โทรคมนาคมแห่งชาติ จำกัด (มหาชน) - Software Engineer - 2021-04-15 - ปัจจุบัน
+
+
+ทักษะและความถนัด:
+
+    * Front-End : [ HTML, CSS, Vanilla JS, React(NextJS), Vue(NuxtJs), Dart(Flutter)]
+    * Back-End : [GoLang, NodeJS, PHP]
+    * Style : [Bootstrap, Tailwind CSS, Material-UI ]
+    * Database : [MySQL, MongoDB, PostgreSQL]
+    * Authentication: [JWT]
+    * ORM: [GORM,Prisma]
+    * Containerization: [Docker]
+    * Operating System: [Ubuntu]
+    * CI/CD: [GitHub]
+
+งานอดิเรก:
+
+    การท่องเที่ยว
+
+คำคมที่ชอบ:
+
+    "คนอื่นทำได้ เราก็ต้องทำได้"
+
+    
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/boy-chawin-878a5b216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
