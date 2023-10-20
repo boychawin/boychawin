@@ -2,48 +2,49 @@
 
 
 
-ประวัติส่วนตัว
+# Boy's Resume
 
-ชื่อ: บอย
+- **Name:** Boy
+- **Location:** Sakon Nakhon, Thailand
+- **Email:** boychawin.com@gmail.com
+- **Phone:** 0985679714
 
-ที่อยู่: สกลนคร ประเทศไทย
+[LinkedIn Profile](linkedin.com/in/boy-chawin-878a5b216) | [Github Profile](https://github.com/boychawin)
 
-อีเมล: boychawin.com@gmail.com
+## Education
+- Bachelor's degree in Computer Science from Rajabhat Sakon Nakhon University
 
-โทรศัพท์: 0985679714
+## Work Experience
+- **National Telecom Public Company Limited (Public Company Limited)**
+  - **Position:** Software Engineer
+  - **Duration:** April 15, 2021 - Present
 
-LinkedIn: linkedin.com/in/boy-chawin-878a5b216
+## Skills and Expertise
+- **Front-End:**
+  - HTML, CSS, Vanilla JS, React (NextJS), Vue (NuxtJs), Dart (Flutter)
+- **Back-End:**
+  - GoLang, NodeJS, PHP
+- **Style:**
+  - Bootstrap, Tailwind CSS, Material-UI
+- **Database:**
+  - MySQL, MongoDB, PostgreSQL
+- **Authentication:**
+  - JWT
+- **ORM:**
+  - GORM, Prisma
+- **Containerization:**
+  - Docker
+- **Operating System:**
+  - Ubuntu
+- **CI/CD:**
+  - GitHub
 
-Github: https://github.com/boychawin
+## Hobbies
+- Traveling
 
-ประวัติการศึกษา:
+## Favorite Quote
+"Others can do it, so can we."
 
-    ปริญญาตรี ใน วิทยาการคอมพิวเตอร์ จาก มหาวิทยาลัยราชภัฏสกลนคร
-
-ประสบการณ์ทำงาน:
-
-    บริษัท โทรคมนาคมแห่งชาติ จำกัด (มหาชน) - Software Engineer - 2021-04-15 - ปัจจุบัน
-
-
-ทักษะและความถนัด:
-
-    * Front-End : [ HTML, CSS, Vanilla JS, React(NextJS), Vue(NuxtJs), Dart(Flutter)]
-    * Back-End : [GoLang, NodeJS, PHP]
-    * Style : [Bootstrap, Tailwind CSS, Material-UI ]
-    * Database : [MySQL, MongoDB, PostgreSQL]
-    * Authentication: [JWT]
-    * ORM: [GORM,Prisma]
-    * Containerization: [Docker]
-    * Operating System: [Ubuntu]
-    * CI/CD: [GitHub]
-
-งานอดิเรก:
-
-    การท่องเที่ยว
-
-คำคมที่ชอบ:
-
-    "คนอื่นทำได้ เราก็ต้องทำได้"
 
     
 
