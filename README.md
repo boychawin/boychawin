@@ -20,10 +20,14 @@
   - **Duration:** April 15, 2021 - 2023
 
 ## Skills and Expertise
-- **Front-End:**
+- **Front-end:**
   - HTML, CSS, Vanilla JS, React (NextJS), Vue (NuxtJs), Dart (Flutter)
-- **Back-End:**
+- **Back-end:**
   - GoLang, NodeJS, PHP
+    
+- **Test-automation:**
+  - Unit Testing
+    
 - **Style:**
   - Bootstrap, Tailwind CSS, Material-UI
 - **Database:**
