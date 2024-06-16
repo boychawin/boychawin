@@ -23,7 +23,7 @@
 - **Front-end:**
   - HTML, CSS, Vanilla JS, React (NextJS), Vue (NuxtJs), Dart (Flutter), Angular
 - **Back-end:**
-  - GoLang, NodeJS, PHP
+  - GoLang, NodeJS, PHP, Rust
     
 - **Test-automation:**
   - Unit Testing
