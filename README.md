@@ -9,7 +9,7 @@
 - **Email:** boychawin.com@gmail.com
 - **Phone:** 0985679714
 
-[LinkedIn Profile](linkedin.com/in/boy-chawin-878a5b216) | [Github Profile](https://github.com/boychawin)
+[LinkedIn Profile](https://www.linkedin.com/in/boychawin/) | [Github Profile](https://github.com/boychawin)
 
 ## Education
 - Bachelor's degree in Computer Science from Rajabhat Sakon Nakhon University
