@@ -16,8 +16,16 @@
 
 ## Work Experience
 - **National Telecom Public Company Limited (Public Company Limited)**
-  - **Position:** Software Engineer
+  - **Position:** Software Developer (Full-Stack Developer)
   - **Duration:** April 15, 2021 - 2023
+
+- **Nellika**
+  - **Position:** Software Developer (Full-Stack Developer)
+  - **Duration:** Jan 02, 2024 - 2024
+ 
+- **...**
+  - **Position:** ...
+  - **Duration:** 2025
 
 ## Skills and Expertise
 - **Front-end:**
