@@ -22,10 +22,6 @@
 - **Nellika**
   - **Position:** Software Developer (Full-Stack Developer)
   - **Duration:** Jan 02, 2024 - 2024
- 
-- **...**
-  - **Position:** ...
-  - **Duration:** 2025
 
 ## Skills and Expertise
 - **Front-end:**
