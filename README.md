@@ -29,8 +29,12 @@
 - **Back-end:**
   - GoLang, NodeJS, PHP, Rust
     
-- **Test-automation:**
+- **Test:**
   - Unit Testing
+  - Integration Test
+  - Component Test
+  - Contract Test
+  - End-to-End Test
     
 - **Style:**
   - Bootstrap, Tailwind CSS, Material-UI
