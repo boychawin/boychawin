@@ -57,9 +57,12 @@
 ## Favorite Quote
 "Others can do it, so can we."
 
+### 🧠 Coding Style & Vibe
+- Passionate about “Vibe Coding”: writing clean, aesthetic, and emotionally resonant code that not only works, but *feels good* to use and maintain.
+- Skilled in creating immersive UI with Tailwind CSS, smooth transitions, meaningful animations, and layouts that balance usability and visual identity.
+- Focused on the “feel” of apps — intuitive, delightful, responsive — especially in landing pages, dashboards, and frontend user flows.
 
     
-
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/boy-chawin-878a5b216/">
