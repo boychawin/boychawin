@@ -1,43 +1,44 @@
-### Hi there 👋
+# Hi there 👋
 
-
-
-# Boy's Resume
+## Boy's [Resume](https://boychawin.com/assets/pdf/resume.pdf)
 
 - **Name:** Boy Chawin
 - **Location:** Sakon Nakhon, Thailand
-- **Email:** boychawin.com@gmail.com
+- **Email:** <support@boychawin.com>
 - **Phone:** 0985679714
 
 [LinkedIn Profile](https://www.linkedin.com/in/boychawin/) | [Github Profile](https://github.com/boychawin)
 
-## Education
-- Bachelor's degree in Computer Science from Rajabhat Sakon Nakhon University
+### Education
 
-## Work Experience
+- **Sawang Daen Din School**
+  - **Education Level:** High School
+  - **Graduation Year:** 2017
+
+- **Sakon Nakhon Rajabhat University**
+  - **Degree:** Bachelor's in Computer Science
+  - **Graduation Year:** 2021
+
+### Work Experience
+
 - **National Telecom Public Company Limited (Public Company Limited)**
   - **Position:** Software Developer (Full-Stack Developer)
   - **Duration:** April 15, 2021 - 2023
 
-- **Nellika**
+- **Nel...**
   - **Position:** Software Developer (Full-Stack Developer)
-  - **Duration:** Jan 02, 2024 - 2024
+  - **Duration:** Jan 02, 2024 - 2025
 
-## Skills and Expertise
-- **Front-end:**
+### Skills and Expertise
+
+- **Front End:**
   - HTML, CSS, Vanilla JS, React (NextJS), Vue (NuxtJs), Dart (Flutter), Angular
-- **Back-end:**
-  - GoLang, NodeJS, PHP, Rust
-    
+- **Back End:**
+  - Go (Fiber), NodeJS (ExpressJs, NestJs), PHP, Rust, ASP.NET
 - **Test:**
   - Unit Testing
-  - Integration Test
-  - Component Test
-  - Contract Test
-  - End-to-End Test
-    
 - **Style:**
-  - Bootstrap, Tailwind CSS, Material-UI
+  - Bootstrap, Tailwind CSS, Material UI
 - **Database:**
   - MySQL, MongoDB, PostgreSQL
 - **Authentication:**
@@ -49,46 +50,87 @@
 - **Operating System:**
   - Ubuntu
 - **CI/CD:**
-  - GitHub
+  - GitHub Action
 
-## Hobbies
+### Hobbies
+
 - Traveling
 
-## Favorite Quote
+### Favorite Quote
+
 "Others can do it, so can we."
 
-### 🧠 Coding Style & Vibe
-- Passionate about “Vibe Coding”: writing clean, aesthetic, and emotionally resonant code that not only works, but *feels good* to use and maintain.
-- Skilled in creating immersive UI with Tailwind CSS, smooth transitions, meaningful animations, and layouts that balance usability and visual identity.
-- Focused on the “feel” of apps — intuitive, delightful, responsive — especially in landing pages, dashboards, and frontend user flows.
+### Project Timeline Overview
 
-    
+```sh
+My-Project/
+├── 2020/
+│   ├── Information-Resource-Management-System (FE, BE)(PHP)
+│   │   → ระบบจัดจองห้องภายในองค์กร เช่น ห้องสมุด
+│   ├── Web-Blog (FE, BE)(NextJS)
+│   │   → บล็อกส่วนตัว ใช้ Next.js ร่วมกับ Markdown สำหรับ content-driven site
+│   ├── Borrow-Back-Rice (FE, BE)(PHP)
+│   │   → ระบบยืม-คืนข้าวสาร สำหรับชุมชนหรือโครงการเกษตร
+│   └── Job-Management (FE, BE)(PHP)
+│       → ระบบบริหารจัดการงานภายในองค์กรแบบ Workflow
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/boy-chawin-878a5b216/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@boychawin">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/boychawin">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+├── 2021/
+│   ├── Lending-System (FE, BE)(PHP)
+│   │   → ระบบให้กู้ยืมเงิน พร้อมระบบอนุมัติและติดตามสถานะ
+│   ├── Osg-Company (FE, BE)(PHP)
+│   │   → เว็บไซต์บริษัท พร้อมระบบจัดการข้อมูลภายใน
+│   ├── Safecore-Company (FE, BE)(PHP)
+│   │   → ระบบบริหารงานลูกค้าองค์กร
+│   ├── Online-Store (FE, BE)(PHP)
+│   │   → ระบบร้านค้าออนไลน์แบบครบวงจร
+│   └── Scan (FE)(PHP)
+│       → ระบบอ่านบาร์โค้ด/QR Code สำหรับลงเวลา
 
-**boychawin/boychawin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+├── 2022/
+│   ├── Express-Transfer (FE, BE)(PHP, ReactJS)
+│   │   → ระบบโอนเงินระหว่างบัญชีแบบ real-time UI ReactJS
+│   ├── Inventory (FE, BE)(PHP)
+│   │   → ระบบจัดการสต๊อกและสินค้า
+│   ├── Vehicle-Scanning-Return-Registration-System (FE, BE)(PHP, Python)
+│   │   → ระบบลงทะเบียน/คืนรถด้วยการสแกนทะเบียน
+│   ├── Farm-Kub (FE, BE)(PHP)
+│   │   → ระบบเกษตรกรจัดการแปลงฟาร์มแบบดิจิทัล
+│   └── Cake-Store (FE)(HTML, CSS, JS)
+│       → เว็บไซต์ขายเค้ก ดีไซน์สวยงามสำหรับ showcase
 
-    - (Dark) - Color: #1b2836
-    - (Green) - Color: #02d668
-    &&
-    มิตรภาพ (Friendship) - Color: #FF6501
-    สนุกสนาน (Fun) - Color: #FBCF01
-    กว้างไกล (Broad and Far) - Color: #150488
-    ทรงเกียรติ (Dignity) - Color: #39184F
-    สิ่งแวดล้อม (Environment) - Color: #007C63
-    มีชีวิต (Vibrant) - Color: #058043
-    ผ่อนคลาย (Relaxation) - Color: #9DC284
-    หนักแน่น (Solid) - Color: #000000
-    ล้ำสมัย (Timeless) - Color: #787878
-    บริสุทธิ์ (Pure) - Color: #CDCDCD
+├── 2023/
+│   ├── Bi (FE)(PHP)
+│   │   → Dashboard สำหรับวิเคราะห์ข้อมูลภายใน
+│   ├── Virtual-Run 🏃‍ (FE, BE)(ReactJS, GO)
+│   │   → แพลตฟอร์มจัดกิจกรรมวิ่งเสมือน พร้อมระบบจัดอันดับ
+│   └── Work-Entry-Exit-System (FE)(PHP)
+│       → ระบบลงเวลาเข้า-ออกงานสำหรับองค์กร
+│       *Client: National Telecom Public Company Limited*
 
+├── 2024/
+│   ├── Web-Blog (boychawin.com)(Rust, MD)
+│   │   → ระบบสร้างบล็อกอัตโนมัติด้วย Markdown และ Rust สำหรับ SEO
+│   ├── Retail-Shop (Fix Issue)(Angular, NodeJs)
+│   │   → แก้ปัญหาทศนิยม โดยตรวจสอบ logic ราย service
+│   ├── Client-App3step (FE)(Angular)
+│   ├── Client-Change-Multisim (FE)(Angular)
+│   ├── Client-New-Login (FE)(Angular)
+│   ├── Client-Sim-Management (FE)(Angular)
+│   ├── Client-Customer-Info-Portal (FE)(Angular)
+│   ├── Client-Easy-App (FE,BE)(Angular, NodeJs)
+│   ├── Shared-Libs (FE)(Angular)
+│   ├── Client-Recall-From-Terminate (FE)(Angular)
+│   │   → งานทั้งหมดเป็นระบบ CRM และ BSS ที่พัฒนาด้วย Angular/NodeJS
+│   └── Animal-Hospital-Management-System (FE, BE)(NextJS, NestJS)
+│       → ระบบบริหารโรงพยาบาลสัตว์ (OPD/IPD) + ระบบคลังยา
+
+├── 2025/
+│   ├── Web-UI (FE)(Angular v.5.0.0 -> v.19)
+│   ├── Epc-UI (FE)(Angular v.9.1.0 -> v.19)
+│   │   → งานอัปเกรด Angular version หลายโปรเจกต์ พร้อมแก้ Dependency + UI
+│   └── Gen-Web-Blog (FE, BE)(Rust, NodeJS)
+│       → ระบบสร้างเว็บไซต์และบทความ SEO ด้วย CLI (ใช้ Rust)
+
+└── 2026/
+│   └── (Waiting for more… 🚀)
+```
