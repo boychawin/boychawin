@@ -29,28 +29,35 @@
   - **Position:** Software Developer (Full-Stack Developer)
   - **Duration:** Jan 02, 2024 - 2025
 
-### Skills and Expertise
+### Technical Skills
 
 - **Front End:**
   - HTML, CSS, Vanilla JS, React (NextJS), Vue (NuxtJs), Dart (Flutter), Angular
 - **Back End:**
   - Go (Fiber), NodeJS (ExpressJs, NestJs), PHP, Rust, ASP.NET
+- **API:**
+  - RESTful, GraphQL
 - **Test:**
   - Unit Testing
 - **Style:**
   - Bootstrap, Tailwind CSS, Material UI
 - **Database:**
   - MySQL, MongoDB, PostgreSQL
-- **Authentication:**
+- **Authentication & Security:**
   - JWT
+  - OAuth
 - **ORM:**
   - GORM, Prisma
-- **Containerization:**
-  - Docker
 - **Operating System:**
   - Ubuntu
-- **CI/CD:**
-  - GitHub Action
+- **DevOps / CI/CD:**
+  - Docker, GitHub Actions, Cloudflare Workers
+- **Tools:**
+  - Git, VSCode, Postman, Notion
+- **CMS/SEO Tools:**
+  - Markdown-based CMS, Open Graph, Meta Tag, Lighthouse Audit
+- **System Design:**
+  - Clean Architecture, Microservices, Event-driven Design
 
 ### Hobbies
 
