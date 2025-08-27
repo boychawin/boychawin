@@ -1,6 +1,7 @@
-# Hi there 👋
 
-## Boy's [Resume](https://boychawin.com/assets/pdf/resume.pdf)
+## Hi there 👋
+
+### Boy's [Resume](https://boychawin.com/assets/pdf/resume.pdf)
 
 - **Name:** Boy Chawin
 - **Location:** Sakon Nakhon, Thailand
@@ -34,18 +35,17 @@
 - **Front End:**
   - HTML, CSS, Vanilla JS, React (NextJS), Vue (NuxtJs), Dart (Flutter), Angular
 - **Back End:**
-  - Go (Fiber), NodeJS (ExpressJs, NestJs), PHP, Rust, ASP.NET
+  - Go (Fiber), NodeJS (ExpressJs, NestJs), PHP, Rust
 - **API:**
-  - RESTful, GraphQL
+  - RESTful
 - **Test:**
   - Unit Testing
 - **Style:**
   - Bootstrap, Tailwind CSS, Material UI
 - **Database:**
-  - MySQL, MongoDB, PostgreSQL
+  - MySQL, MongoDB, PostgreSQL, SQLite
 - **Authentication & Security:**
-  - JWT
-  - OAuth
+  - JWT, OAuth
 - **ORM:**
   - GORM, Prisma
 - **Operating System:**
@@ -53,11 +53,12 @@
 - **DevOps / CI/CD:**
   - Docker, GitHub Actions, Cloudflare Workers
 - **Tools:**
-  - Git, VSCode, Postman, Notion
+  - Git, VSCode, Zed, Postman, Notion
 - **CMS/SEO Tools:**
   - Markdown-based CMS, Open Graph, Meta Tag, Lighthouse Audit
 - **System Design:**
   - Clean Architecture, Microservices, Event-driven Design
+
 
 ### Hobbies
 
@@ -67,13 +68,13 @@
 
 "Others can do it, so can we."
 
-### Project Timeline Overview
+### 🗂️ Project Timeline Overview
 
 ```sh
 My-Project/
 ├── 2020/
 │   ├── Information-Resource-Management-System (FE, BE)(PHP)
-│   │   → ระบบจัดจองห้องภายในองค์กร เช่น ห้องสมุด
+│   │   → ระบบจองห้องประชุม
 │   ├── Web-Blog (FE, BE)(NextJS)
 │   │   → บล็อกส่วนตัว ใช้ Next.js ร่วมกับ Markdown สำหรับ content-driven site
 │   ├── Borrow-Back-Rice (FE, BE)(PHP)
@@ -95,7 +96,7 @@ My-Project/
 
 ├── 2022/
 │   ├── Express-Transfer (FE, BE)(PHP, ReactJS)
-│   │   → ระบบโอนเงินระหว่างบัญชีแบบ real-time UI ReactJS
+│   │   → ระบบโอนเงินระหว่างระหว่างประเทศ
 │   ├── Inventory (FE, BE)(PHP)
 │   │   → ระบบจัดการสต๊อกและสินค้า
 │   ├── Vehicle-Scanning-Return-Registration-System (FE, BE)(PHP, Python)
@@ -116,7 +117,7 @@ My-Project/
 
 ├── 2024/
 │   ├── Web-Blog (boychawin.com)(Rust, MD)
-│   │   → ระบบสร้างบล็อกอัตโนมัติด้วย Markdown และ Rust สำหรับ SEO
+│   │   → เว็บ Blog ส่วนตัว
 │   ├── Retail-Shop (Fix Issue)(Angular, NodeJs)
 │   │   → แก้ปัญหาทศนิยม โดยตรวจสอบ logic ราย service
 │   ├── Client-App3step (FE)(Angular)
@@ -134,9 +135,9 @@ My-Project/
 ├── 2025/
 │   ├── Web-UI (FE)(Angular v.5.0.0 -> v.19)
 │   ├── Epc-UI (FE)(Angular v.9.1.0 -> v.19)
-│   │   → งานอัปเกรด Angular version หลายโปรเจกต์ พร้อมแก้ Dependency + UI
+│   │   → งานอัปเกรด Angular version
+│   ├── FBB (Flutter)
 │   └── Gen-Web-Blog (FE, BE)(Rust, NodeJS)
-│       → ระบบสร้างเว็บไซต์และบทความ SEO ด้วย CLI (ใช้ Rust)
 
 └── 2026/
 │   └── (Waiting for more… 🚀)
