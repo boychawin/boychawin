@@ -1,4 +1,3 @@
-
 ## Hi there 👋
 
 ### Boy's [Resume](https://boychawin.com/assets/pdf/resume.pdf)
@@ -33,9 +32,9 @@
 ### Technical Skills
 
 - **Front End:**
-  - HTML, CSS, Vanilla JS, React (NextJS), Vue (NuxtJs), Dart (Flutter), Angular
+  - HTML, CSS, Vanilla JS, React (NextJS), Angular, Dart (Flutter)
 - **Back End:**
-  - Go (Fiber), NodeJS (ExpressJs, NestJs), PHP, Rust
+  - PHP, NodeJS (ExpressJs, NestJs), Go (Fiber), Rust
 - **API:**
   - RESTful
 - **Test:**
@@ -74,71 +73,72 @@
 My-Project/
 ├── 2020/
 │   ├── Information-Resource-Management-System (FE, BE)(PHP)
-│   │   → ระบบจองห้องประชุม
+│   │   → Meeting room booking system for internal use
 │   ├── Web-Blog (FE, BE)(NextJS)
-│   │   → บล็อกส่วนตัว ใช้ Next.js ร่วมกับ Markdown สำหรับ content-driven site
+│   │   → Personal blog built with Next.js + Markdown
 │   ├── Borrow-Back-Rice (FE, BE)(PHP)
-│   │   → ระบบยืม-คืนข้าวสาร สำหรับชุมชนหรือโครงการเกษตร
+│   │   → Rice borrowing/return system for community/agriculture projects
 │   └── Job-Management (FE, BE)(PHP)
-│       → ระบบบริหารจัดการงานภายในองค์กรแบบ Workflow
+│       → Workflow system for internal job management (NT)
 
 ├── 2021/
 │   ├── Lending-System (FE, BE)(PHP)
-│   │   → ระบบให้กู้ยืมเงิน พร้อมระบบอนุมัติและติดตามสถานะ
+│   │   → Loan system with approval and tracking
 │   ├── Osg-Company (FE, BE)(PHP)
-│   │   → เว็บไซต์บริษัท พร้อมระบบจัดการข้อมูลภายใน
+│   │   → Company website + internal management system
 │   ├── Safecore-Company (FE, BE)(PHP)
-│   │   → ระบบบริหารงานลูกค้าองค์กร
+│   │   → Customer management system for enterprises
 │   ├── Online-Store (FE, BE)(PHP)
-│   │   → ระบบร้านค้าออนไลน์แบบครบวงจร
+│   │   → E-commerce system
 │   └── Scan (FE)(PHP)
-│       → ระบบอ่านบาร์โค้ด/QR Code สำหรับลงเวลา
+│       → Barcode/QR Code scanning system for attendance
 
 ├── 2022/
 │   ├── Express-Transfer (FE, BE)(PHP, ReactJS)
-│   │   → ระบบโอนเงินระหว่างระหว่างประเทศ
+│   │   → International money transfer system
 │   ├── Inventory (FE, BE)(PHP)
-│   │   → ระบบจัดการสต๊อกและสินค้า
+│   │   → Stock and product management system
 │   ├── Vehicle-Scanning-Return-Registration-System (FE, BE)(PHP, Python)
-│   │   → ระบบลงทะเบียน/คืนรถด้วยการสแกนทะเบียน
+│   │   → Vehicle registration/return via license plate scanning
 │   ├── Farm-Kub (FE, BE)(PHP)
-│   │   → ระบบเกษตรกรจัดการแปลงฟาร์มแบบดิจิทัล
+│   │   → Digital farm management system for farmers
 │   └── Cake-Store (FE)(HTML, CSS, JS)
-│       → เว็บไซต์ขายเค้ก ดีไซน์สวยงามสำหรับ showcase
+│       → Cake shop website
 
 ├── 2023/
 │   ├── Bi (FE)(PHP)
-│   │   → Dashboard สำหรับวิเคราะห์ข้อมูลภายใน
+│   │   → Internal data analytics dashboard
 │   ├── Virtual-Run 🏃‍ (FE, BE)(ReactJS, GO)
-│   │   → แพลตฟอร์มจัดกิจกรรมวิ่งเสมือน พร้อมระบบจัดอันดับ
+│   │   → Virtual running platform with ranking system
 │   └── Work-Entry-Exit-System (FE)(PHP)
-│       → ระบบลงเวลาเข้า-ออกงานสำหรับองค์กร
-│       *Client: National Telecom Public Company Limited*
+│       → Employee check-in/out system
 
 ├── 2024/
 │   ├── Web-Blog (boychawin.com)(Rust, MD)
-│   │   → เว็บ Blog ส่วนตัว
+│   │   → Personal blog (new version)
 │   ├── Retail-Shop (Fix Issue)(Angular, NodeJs)
-│   │   → แก้ปัญหาทศนิยม โดยตรวจสอบ logic ราย service
+│   │   → Fixed decimal number logic across services
 │   ├── Client-App3step (FE)(Angular)
 │   ├── Client-Change-Multisim (FE)(Angular)
 │   ├── Client-New-Login (FE)(Angular)
 │   ├── Client-Sim-Management (FE)(Angular)
 │   ├── Client-Customer-Info-Portal (FE)(Angular)
-│   ├── Client-Easy-App (FE,BE)(Angular, NodeJs)
+│   ├── Client-Easy-App (FE, BE)(Angular, NodeJs)
 │   ├── Shared-Libs (FE)(Angular)
 │   ├── Client-Recall-From-Terminate (FE)(Angular)
-│   │   → งานทั้งหมดเป็นระบบ CRM และ BSS ที่พัฒนาด้วย Angular/NodeJS
+│   │   → CRM / BSS projects developed with Angular + NodeJS
 │   └── Animal-Hospital-Management-System (FE, BE)(NextJS, NestJS)
-│       → ระบบบริหารโรงพยาบาลสัตว์ (OPD/IPD) + ระบบคลังยา
+│       → Veterinary hospital management (OPD/IPD) + drug inventory system
 
 ├── 2025/
 │   ├── Web-UI (FE)(Angular v.5.0.0 -> v.19)
 │   ├── Epc-UI (FE)(Angular v.9.1.0 -> v.19)
-│   │   → งานอัปเกรด Angular version
+│   │   → Angular upgrade project
 │   ├── FBB (Flutter)
 │   └── Gen-Web-Blog (FE, BE)(Rust, NodeJS)
+│       → CLI tool for generating websites and SEO blogs
 
 └── 2026/
-│   └── (Waiting for more… 🚀)
+│   └── (Waiting for new projects… 🚀)
+
 ```
