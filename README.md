@@ -135,10 +135,11 @@ My-Project/
 │   ├── Epc-UI (FE)(Angular v.9.1.0 -> v.19)
 │   │   → Angular upgrade project
 │   ├── FBB (Flutter)
-│   └── Gen-Web-Blog (FE, BE)(Rust, NodeJS)
-│       → CLI tool for generating websites and SEO blogs
 
 └── 2026/
-│   └── (Waiting for new projects… 🚀)
+│   ├── AIS 3BB FIBRE3 (Flutter Web, Angular)
+│   │   → พนักงานขาย
+│   └── Application Rationalization (Flutter, Android, IOS, Web)
+│   │   → Developed Menu Change Package
 
 ```
